@@ -1,0 +1,74 @@
+[
+  {
+    "id": "coffret-zainab",
+    "name": "Le coffret",
+    "category": "coffrets",
+    "categoryLabel": "Coffret personnalisé",
+    "description": "Un assortiment choisi avec soin, marqué de son prénom.",
+    "image": "Assets/f1875a4608037f186172d869166867e3.jpg",
+    "imageAlt": "Coffret avec bouteille, carnet, stylo et accessoires personnalisés"
+  },
+  {
+    "id": "carnet-maman",
+    "name": "Les mots",
+    "category": "papeterie",
+    "categoryLabel": "Gravure & papeterie",
+    "description": "Carnet et accessoires gravés pour une attention toute personnelle.",
+    "image": "Assets/b67835398732a2fb96cbd634e33aa5f9.jpg",
+    "imageAlt": "Carnet personnalisé et bouteille gravée pour maman"
+  },
+  {
+    "id": "livre-a-nous",
+    "name": "Le livre de nous",
+    "category": "souvenirs",
+    "categoryLabel": "Souvenir imprimé",
+    "description": "Vos messages et vos instants réunis dans un petit livre à garder.",
+    "image": "Assets/635ad37b579e793c6f1886bbafb756bb.jpg",
+    "imageAlt": "Livre photo personnalisé avec souvenirs et messages"
+  },
+  {
+    "id": "cles-du-coeur",
+    "name": "Les clés du cœur",
+    "category": "souvenirs",
+    "categoryLabel": "Souvenir personnalisé",
+    "description": "Des porte-clés photo pour emporter ses proches partout.",
+    "image": "Assets/2c50ac7acf2c1db1155212b7b228b20b.jpg",
+    "imageAlt": "Porte-clés en forme de cœur avec photos personnalisées"
+  },
+  {
+    "id": "gourde-complice",
+    "name": "À deux, partout",
+    "category": "souvenirs",
+    "categoryLabel": "Impression sur mesure",
+    "description": "Une gourde souvenir créée pour célébrer votre histoire à deux.",
+    "image": "Assets/da3682e13c1ad4a17c75d340899d5297.jpg",
+    "imageAlt": "Gourde avec étiquette commémorative personnalisée pour un couple"
+  },
+  {
+    "id": "ecrin-attention",
+    "name": "L’écrin des attentions",
+    "category": "coffrets",
+    "categoryLabel": "Coffret cadeau",
+    "description": "Un assortiment coloré et personnalisé, prêt à être offert.",
+    "image": "Assets/f1875a4608037f186172d869166867e3.jpg",
+    "imageAlt": "Coffret cadeau personnalisé avec accessoires soigneusement présentés"
+  },
+  {
+    "id": "merci-maitresse",
+    "name": "Un grand merci",
+    "category": "souvenirs",
+    "categoryLabel": "Souvenir photo",
+    "description": "Un petit souvenir illustré pour remercier ceux qui comptent.",
+    "image": "Assets/2c50ac7acf2c1db1155212b7b228b20b.jpg",
+    "imageAlt": "Porte-clés photo en forme de cœur, cadeau de remerciement"
+  },
+  {
+    "id": "souvenir-grave",
+    "name": "Le détail qui reste",
+    "category": "papeterie",
+    "categoryLabel": "Gravure de prestige",
+    "description": "Un objet du quotidien rehaussé d’un prénom et d’une intention.",
+    "image": "Assets/9609405ed07be56d11f6682dafcc2c6d.jpg",
+    "imageAlt": "Porte-clés en bois gravés et personnalisés"
+  }
+]
